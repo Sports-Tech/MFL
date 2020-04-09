@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Sports-Tech/MFL/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome everyone to the initial **[McCurley Fantasty League](https://sleeper.app/leagues/516022205718880256/Sports-Tech/MFL/edit/master/README.md)** website.  This site will obviously mature, evolve, and become more aesthetically pleasing over time.  So please, bare with us on this journey.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
